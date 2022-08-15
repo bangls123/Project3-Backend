@@ -1,0 +1,14 @@
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\bin\Debug\InternDemoDebugService.exe.config
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\bin\Debug\InternDemoDebugService.exe
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\bin\Debug\InternDemoDebugService.pdb
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\bin\Debug\InternDemoService.exe
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\bin\Debug\Vnext.Intern.WinServiceBase.dll
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\bin\Debug\InternDemoService.pdb
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\bin\Debug\InternDemoService.exe.config
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\bin\Debug\Vnext.Intern.WinServiceBase.pdb
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\obj\Debug\Vnext.Intern.DemoDebugService.csproj.AssemblyReference.cache
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\obj\Debug\Vnext.Intern.DemoDebugService.csproj.SuggestedBindingRedirects.cache
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\obj\Debug\Vnext.Intern.DemoDebugService.csproj.CoreCompileInputs.cache
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\obj\Debug\Vnext.Intern.DemoDebugService.csproj.CopyComplete
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\obj\Debug\InternDemoDebugService.exe
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoDebugService\obj\Debug\InternDemoDebugService.pdb

@@ -1,0 +1,15 @@
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\bin\Debug\InternDemoService.exe.config
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\bin\Debug\InternDemoService.exe
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\bin\Debug\InternDemoService.pdb
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\bin\Debug\Vnext.Intern.WinServiceBase.dll
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\bin\Debug\Vnext.Intern.WinServiceBase.pdb
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\obj\Debug\Vnext.Intern.DemoService.csproj.AssemblyReference.cache
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\obj\Debug\Vnext.Intern.DemoService.csproj.SuggestedBindingRedirects.cache
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\obj\Debug\Vnext.Intern.DemoService.csproj.GenerateResource.cache
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\obj\Debug\Vnext.Intern.DemoService.csproj.CoreCompileInputs.cache
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\obj\Debug\Vnext.Intern.DemoService.csproj.CopyComplete
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\obj\Debug\InternDemoService.exe
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\obj\Debug\InternDemoService.pdb
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.DemoService\obj\Debug\InternDepartmentServiceReport.ProjectInstaller.resources

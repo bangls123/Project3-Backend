@@ -1,0 +1,8 @@
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.WinServiceBase\bin\Debug\Vnext.Intern.WinServiceBase.dll
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.WinServiceBase\bin\Debug\Vnext.Intern.WinServiceBase.pdb
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.WinServiceBase\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.WinServiceBase\obj\Debug\Vnext.Intern.WinServiceBase.csproj.AssemblyReference.cache
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.WinServiceBase\obj\Debug\Vnext.Intern.WinServiceBase.csproj.CoreCompileInputs.cache
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.WinServiceBase\obj\Debug\Vnext.Intern.WinServiceBase.csproj.CopyComplete
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.WinServiceBase\obj\Debug\Vnext.Intern.WinServiceBase.dll
+C:\Users\bangdh\Desktop\MockProject\ApiProject\Vnext.Intern.ProcessAndJobs\Vnext.Intern.WinServiceBase\obj\Debug\Vnext.Intern.WinServiceBase.pdb
